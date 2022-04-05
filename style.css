@@ -93,3 +93,17 @@ a
 {
     src: url();
 }
+
+footer
+{
+    background-color: lightblue;
+    padding: 15px;
+}
+
+footer a
+{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 1.5em;
+}
