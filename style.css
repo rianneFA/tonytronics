@@ -102,3 +102,11 @@ footer a
     font-weight: bold;
     margin-right: 1.5em;
 }
+
+.zoekbalk{
+    border-radius: 20px;
+    border: 1px solid rgba(81, 203, 238, 1);
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    margin: 5px 1px 3px 0px;
+    padding: 3px 0px 3px 3px;
+}
